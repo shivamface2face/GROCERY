@@ -1,5 +1,5 @@
-# Project Name
-
+# GROCERY MANAGMENT
+![Project Logo](path/to/your/image.png)
 ## Description
 This project is a Grocery Management System developed to facilitate efficient ordering and management functionalities.
 
