@@ -1,6 +1,9 @@
 # GROCERY MANAGMENT
-![Project Logo](path/to/your/image.png)
-## Description
+
+
+## Description!
+[Screenshot (306)](https://github.com/shivamface2face/GROCERY/assets/71273850/d7409b43-c424-434c-b335-8d6de5b39112)
+
 This project is a Grocery Management System developed to facilitate efficient ordering and management functionalities.
 
 ## Features
