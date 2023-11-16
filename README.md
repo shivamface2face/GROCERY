@@ -2,7 +2,13 @@
 
 
 ## Description!
-[Screenshot (306)](https://github.com/shivamface2face/GROCERY/assets/71273850/d7409b43-c424-434c-b335-8d6de5b39112)
+
+
+##output
+
+![Screenshot (734)](https://github.com/shivamface2face/GROCERY/assets/71273850/e10abed5-3afa-480a-bbf1-bf378eef2113)
+![Screenshot (735)](https://github.com/shivamface2face/GROCERY/assets/71273850/3c6af80f-33cc-4674-84fd-bf7a4e30b2b6)
+![Screenshot (736)](https://github.com/shivamface2face/GROCERY/assets/71273850/8887d578-74f2-48c3-ac5e-73e04a33a2e5)
 
 This project is a Grocery Management System developed to facilitate efficient ordering and management functionalities.
 
