@@ -29,4 +29,4 @@ To get started with this project, simply clone the repository to your local mach
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Shivam Singh] .
